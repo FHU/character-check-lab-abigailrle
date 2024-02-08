@@ -16,4 +16,4 @@ if __name__ == '__main__':
     print(check_character('happy birthday', 5))
     print(check_character('happy birthday 2 you', 15))
     print(check_character('happy birthday!', 14))
-   #Test autograder LR
+   #Test autograder LR 2
